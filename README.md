@@ -2,7 +2,7 @@
 
 My name is Allan Leite and i like to automate processes to free people up to do work that makes them think.
 
-in down you can view some information about me:
+About me:
 
 - 🔭 I’m currently working on Light Design + Exporlux
 - 🌱 I’m currently learning javascript Frameworks and Solid Edge SDK (C#)
