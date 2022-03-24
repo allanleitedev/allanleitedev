@@ -50,4 +50,4 @@ About me:
 
 [![Linkedin: Allan Leite](https://img.shields.io/badge/-allanleite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-leite-2b0816144)](https://www.linkedin.com/in/allan-leite-2b0816144)
 [![Gmail Badge](https://img.shields.io/badge/-allanleitedev@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub Allan Leite]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/allanleitedev)
+[![GitHub Allan Leite]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/Ileriayo)
